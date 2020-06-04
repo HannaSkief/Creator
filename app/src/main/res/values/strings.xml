@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">IC2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navication_drawer_open">navigation drawer open</string>
+    <string name="navication_drawer_close">navigation drawer close</string>
+    <string name="non_conformance">Non conformance</string>
+    <string name="accident">Accident</string>
+    <string name="near_miss">Near miss</string>
+    <string name="improvement">Improvement</string>
+    <string name="prevention">Prevention</string>
+    <string name="send">Send</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="location">Location</string>
+    <string name="department">Department</string>
+    <string name="type_of_incident">Type of incident</string>
+    <string name="project_reference">Project/Reference</string>
+    <string name="describe_of_issue">Describe of issue</string>
+    <string name="what_did_you_do_about_it">What did you do about it</string>
+    <string name="delete_this_image">Delete this image ?</string>
+    <string name="setting">Setting</string>
+    <string name="quick_report">Quick Report</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="locations">Locations</string>
+    <string name="types_of_incident">Types of incidents</string>
+    <string name="archive">Archive</string>
+    <string name="observation">Observation</string>
+    <string name="please_wait">Please wait</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#344955</color>
+    <color name="colorPrimaryDark">#232f34</color>
+    <color name="colorAccent">#f9aa33</color>
+    <color name="colorGrayLight">#e4ebf0</color>
+    
+    <color name="colorNonConformance">#1565c0</color>
+    <color name="colorAccident">#c62828</color>
+    <color name="colorObservation">#2e7d32</color>
+    <color name="colorNearMiss">#283593</color>
+    <color name="colorImprovement">#4fc3f7</color>
+    <color name="colorPrevention">#757575</color>
+</resources>

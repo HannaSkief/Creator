@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="5dp"
+    app:cardElevation="3dp"
+    app:cardCornerRadius="5dp">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:gravity="center_vertical">
+        <TextView
+            android:id="@+id/tvLocation"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Location"
+            android:textColor="@color/colorPrimary"
+            android:textStyle="normal"
+            android:textSize="18sp"/>
+        <CheckBox
+            android:id="@+id/cbSelected"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="7dp"/>
+        <View
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="@color/colorPrimary"
+            android:alpha="0.4"/>
+        <ImageView
+            android:id="@+id/imgDelete"
+            android:layout_width="27dp"
+            android:layout_height="27dp"
+            android:src="@drawable/ic_delete"
+            android:tint="@color/colorAccident"
+            android:layout_marginStart="10dp"/>
+    </LinearLayout>
+
+
+
+</com.google.android.material.card.MaterialCardView>
